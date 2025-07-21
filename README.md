@@ -5,7 +5,7 @@
 <br>
 기간 : 2025.07.22 ~ 2025.00.00<br>
 <br>
-- Subject: <br>
+- Subject: 따릉이 필요 수량 예측하기<br>
 - Language: Dart<br>
 - Framework: Flutter<br>
 - State Management : <br>
